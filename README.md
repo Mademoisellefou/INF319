@@ -19,5 +19,5 @@ Pregunta 6
 
 Pregunta 7
 
-<img style="width: 850px; height:500px;" src="https://github.com/Mademoisellefou/INF319/blob/main/Pregunta8/resultado/Captura.PNG" alt="Paris">
+<img style="width: 850px; height:500px;" src="https://github.com/Mademoisellefou/INF319/blob/main/Pregunta7/resultado/Captura.PNG" alt="Paris">
 
