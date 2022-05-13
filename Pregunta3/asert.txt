@@ -1,0 +1,14 @@
+padre(homer,bart).
+padre(buner,marge).
+padre(alf,lib).
+padre(awer,carla).
+padre(robert,awer).
+padre(robert,alf).
+madre(marge,lisa).
+madre(ely,lib).
+madre(lia,alf).
+hijo(Y,X) :- padre(X,Y).
+abuelo(X,Y) :- madre(Z,Y),padre(X,Z).
+nieto(M,L):- padre(X,M),madre(L,X);madre(X,M),madre(L,X).
+hermano(B,L):- padre(X,B),padre(X,L),not(B=L).
+primo(C,M):-padre(X,C),hermano(X,Y),padre(Y,M).
