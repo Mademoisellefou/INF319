@@ -1,0 +1,10 @@
+c:\users\mlibia\documents\visual studio 2012\Projects\Pregunta1\Pregunta1\bin\Debug\Pregunta1.exe.config
+c:\users\mlibia\documents\visual studio 2012\Projects\Pregunta1\Pregunta1\bin\Debug\Pregunta1.exe
+c:\users\mlibia\documents\visual studio 2012\Projects\Pregunta1\Pregunta1\bin\Debug\Pregunta1.pdb
+c:\users\mlibia\documents\visual studio 2012\Projects\Pregunta1\Pregunta1\bin\Debug\Pregunta1.xml
+c:\users\mlibia\documents\visual studio 2012\Projects\Pregunta1\Pregunta1\obj\Debug\Pregunta1.Form1.resources
+c:\users\mlibia\documents\visual studio 2012\Projects\Pregunta1\Pregunta1\obj\Debug\Pregunta1.Resources.resources
+c:\users\mlibia\documents\visual studio 2012\Projects\Pregunta1\Pregunta1\obj\Debug\Pregunta1.vbproj.GenerateResource.Cache
+c:\users\mlibia\documents\visual studio 2012\Projects\Pregunta1\Pregunta1\obj\Debug\Pregunta1.exe
+c:\users\mlibia\documents\visual studio 2012\Projects\Pregunta1\Pregunta1\obj\Debug\Pregunta1.xml
+c:\users\mlibia\documents\visual studio 2012\Projects\Pregunta1\Pregunta1\obj\Debug\Pregunta1.pdb
