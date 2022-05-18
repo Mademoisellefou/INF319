@@ -13,6 +13,9 @@ Pregunta 3
 
 <img style="width: 850px; height:300px;" src="https://github.com/Mademoisellefou/INF319/blob/main/Pregunta3/resultado/Captura.PNG" alt="Paris">
 
+Pregunta 4
+
+<img style="width: 850px; height:300px;" src="https://github.com/Mademoisellefou/INF319/blob/main/Pregunta4/Resultado/Sin%20t%C3%ADtulo.png" alt="Paris">
 
 Pregunta 5
 
