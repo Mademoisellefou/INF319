@@ -1,0 +1,18 @@
+local({fn<-choose.files(filters=Filters[c('R','txt','All'),],index=4)
+file.show(fn,header=fn,title='')})
+print("Data Iris")
+iris
+class(iris)
+colnames(iris)
+print("Graficando iris Largo del Petalo")
+plot(iris$Petal.Length, iris$Petal.Width, main="Edgar Anderson's Iris Data")
+print("Diagramas de dispersión de pares")
+pairs(iris[1:4], main = "Edgar Anderson's Iris Data", pch = 21, bg = c("red", "green3", "blue")[unclass(iris$Species)])
+save.image("C:\\Users\\mlibia\\Documents\\2022\\391\\tarea1")
+load("C:\\Users\\mlibia\\Documents\\2022\\391\\tarea1s")
+print("Data Iris")
+iris
+class(iris)
+colnames(iris)
+print("Diagramas de dispersión de pares")
+pairs(iris[1:4], main = "Edgar Anderson's Iris Data", pch = 21, bg = c("red", "green3", "blue")[unclass(iris$Species)])
